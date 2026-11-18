@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @seelokyen
-- 👀 I’m interested in programming, database and UI/UX.
-- 🌱 I’m currently learning Scala, an OOP language.
-- 💞️ I’m looking to collaborate on web/app development
-- 📫 How to reach me: seelokyens@gmail.com
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I sleep a lot (￣m￣）
+👋 Hi, I’m @seelokyen
+👀 I’m interested in Data Science and AI.
+🌱 I’m currently learning AI/ML, RAG systems and LangChain
+📫 How to reach me: seelokyens@gmail.com
+
 
